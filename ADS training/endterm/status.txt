@@ -1,0 +1,17 @@
+
+
+
+	Problem A: 50 easy ;)
+	
+	Problem B: 50 east ;)
+	
+	Problem C: 31 seems like here I should use DSU
+	
+	Problem D: 50 easy ;)
+	
+	Problem E: 25 seems like here I also should use DSU
+	
+	Problem F: 25 I suppose here I should use some optimized modification of Floyd Algorithm
+	
+
+	In total: 32.34 pts.
