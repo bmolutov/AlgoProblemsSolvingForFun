@@ -1,3 +1,6 @@
+# my approach
+# not accepted
+
 def permutations(s, flags = [0]*100, ans="", d={}):
 
     for i in range(len(s)):
